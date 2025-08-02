@@ -45,6 +45,7 @@ coverage.xml
 # Environment variables and secret keys
 .env
 *.env
+env.txt
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
